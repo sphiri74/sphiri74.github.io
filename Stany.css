@@ -1,0 +1,138 @@
+#content header{
+	font-family: Verdana;
+	background-color: #00FFFF;
+	margin-right: 20px;
+	margin-left: 50px;
+	float: left;
+	font-size: 20px;
+	position: absolute;
+	text-align: center;
+}
+#content content content{
+	margin-left: 50px;
+	font-family: vivaldi;
+}
+div >h1{
+	text-align: center'
+}
+#content{
+	background: #FAFACF;
+	margin: 10px
+	padding: 10px 38px 10px 20px; 
+	width: 508px;
+	float: left;
+	border-right: 20px solid # E2E5B6;
+	text-align: left;
+}
+body{
+	background-color: #008080;
+	font-family: Verdana, Vivaldi, Sans-serif;
+	font-size: small;
+	margin: 0px;
+	padding: 0px;
+	width:1500px;
+}
+#container: first-child{
+	position: left;
+	float: left;
+	margin-left: 2px;
+}
+#container{
+	background:azure;
+	width: 700px;
+	margin: auto;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding: 0px;
+}
+#navigation{
+	margin:0px;
+	padding: 10px  10px 10px 10px
+	float: right;
+	width: 180 px;
+	height: 100% px;
+	border: 1px; # yellow solid;
+	text-align: center;
+}
+#footer{
+	clear: both;
+	padding: 10px 10px; 
+	margin: 0px;
+	color: black;
+	font-size: 85%
+	font-weight: bold;
+	background-color: azure;
+	position: center fixed;
+	text-align: left;
+	
+	font-family: Verdana;
+	background-color: #00FFFF;
+}
+h2{
+margin-left: 10px;
+}
+p{
+	margin-left: 10px;
+}
+li{
+	display: inline;
+}
+h6 li{
+	font-color: CD853F;
+}
+img{
+	height:450px;
+	width:600px;
+	margin-top:
+	margin-bottom:
+	margin-left:
+	margin-right:
+	float:
+	position:
+}
+div img{
+	display: inline-block;
+	height: 
+}
+#content{
+	width: 500px;
+}
+#intro{
+	margin-top -200px;
+	width: 30px;
+	height: 20px;
+	position: right;
+	float: right;
+}
+#contrats{
+	height: 50px;
+}
+div #topdiv{
+	padding: 8px;
+	background: yellow;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	color: yellow;
+}
+div #bottomdiv{
+	padding: 8px;
+	background: yellow;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	color: yellow;
+}
+style{
+	background: yellow;
+	margin: 44px 0 px 0px 0px;
+}
+#header{
+	position: fixed;
+}
+#footer{
+	margin: 8px 0px 0px 0px;
+	padding: 0px;
+}
